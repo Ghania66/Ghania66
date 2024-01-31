@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghania66&label=Profile%20views&color=0e75b6&style=flat" alt="ghania66" /> </p>
 
-- 🌱 I’m currently learning **javascript and their framework**
+- 🌱 I’m currently learning **javascript and their frameworks**
+- 
 
 - 📫 How to reach me **ghaniashahzad7860@gmail.com**
 
