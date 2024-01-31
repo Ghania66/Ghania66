@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ghania Shahzad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align = "right" alt = "coding" width = "400" src = "C:\Users\shydo\OneDrive\Desktop\image_processing20210301-3601-w1fbuc.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghania66&label=Profile%20views&color=0e75b6&style=flat" alt="ghania66" /> </p>
 
