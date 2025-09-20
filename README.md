@@ -22,9 +22,7 @@
 <a href="https://linkedin.com/in/ghania-shahzad" target="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/ghania3712" target="blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white" />
-</a>
+
 </p>
 
 ---
